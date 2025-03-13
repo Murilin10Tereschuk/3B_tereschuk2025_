@@ -78,8 +78,8 @@ section {
     padding-top: 5rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
-    background: url('img/flor.png') top right no-repeat,
-        url('img/flor-esquerda.png') bottom left no-repeat;
+    background: url('img/mascara_carnaval_em_eva_colorida_folia_com_elastico_01_un_3789_1_7f309401f1bb833f9d6b1fc21a279517.webp') top right no-repeat,
+        url('img/mascara_carnaval_em_eva_colorida_folia_com_elastico_01_un_3789_1_7f309401f1bb833f9d6b1fc21a279517.webp') bottom left no-repeat;
     background-size: 180px 180px;
     /* Ajuste o tamanho conforme necessário */
 }
@@ -107,7 +107,7 @@ h2 {
 }
 
 .fundo-galeria {
-    background: url('img/flor-bottom-direita.png') bottom right no-repeat;
+    background: url('img/mascara_carnaval_em_eva_colorida_folia_com_elastico_01_un_3789_1_7f309401f1bb833f9d6b1fc21a279517.webp') bottom right no-repeat;
     background-size: 180px 180px;
 }
 
